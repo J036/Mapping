@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+        <!-- Tells browser that I'm using Unicode-->
+    <meta name="description" content= "mapping exercise">
+        <!-- Explains content of website to browser -->
+    <meta name="author" content="Jay Joseph">
+        <!-- Provides author of website -->
+    <meta name="viewport" content= "width=device-width, initial-scale = 1.0">
+        <!-- Ensures websites scale to mobile devices and screens of different sizes -->
+    <meta http-equiv="refresh" content ="1800">
+        <!-- Makes the page refresh every 30 min-->
+
+    <!-- boxicons's custom element -->
+    <title>Mapping Exercise</title>
+</head>
+<body>
+    <h1>Locations of Chicago Public Schools: Travel Times to Local Public Schools Appears to be Greater in Central Chicago </h1>
+    <iframe width='100%' height='500px' src="https://api.mapbox.com/styles/v1/jayaj-04/cm4q3rgm400ab01s00gvf5kza.html?title=false&access_token=pk.eyJ1IjoiamF5YWotMDQiLCJhIjoiY200cTNuaWV1MHp4MTJscTQ5bDY4eXV3eiJ9.uc1FriF3fKQ4CZvctOh2zQ&zoomwheel=false#9.08/41.8139/-87.6403" title="Map of Chicago Public Schools" style="border:none;"></iframe>
+    <p> Data file from Data.gov. </p>
+    <p>Data Contributors: City of Chicago</p>
+</body>
